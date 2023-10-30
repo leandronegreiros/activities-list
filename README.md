@@ -1,4 +1,4 @@
-# curso_de_flutter
+# Activities list
 
 A new Flutter project.
 
